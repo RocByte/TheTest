@@ -20,6 +20,7 @@ The game ends when all ships are sunk or player types "esc" or "exit";
 ### Developement
 
 IDE used: JetBrains Rider 2022.3.1 (should also work in Visual Studio 2022)
+
 Build and run BattleshipsGameConsole.exe
 
 ### How to run
@@ -28,4 +29,5 @@ Install .NET Runtime 7.0.1:
 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 Download Game\BattleshipsGameConsole.zip (it's Debug bin)
+
 Unpack and run BattleshipsGameConsole.exe.
